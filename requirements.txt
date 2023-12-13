@@ -1,4 +1,5 @@
 Flask
 pandas
-tensorflow-cpu
+tensorflow
+scikit-learn
 joblib
