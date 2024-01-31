@@ -1,6 +1,6 @@
 Flask
 pandas
 gunicorn
-tensorflow-cpu
+tensorflow
 scikit-learn
 joblib
